@@ -1,0 +1,1 @@
+I will try to solve an ode problem using the Euler's polygonal arc method(I'm not very sure if this name is corret) in this project.
